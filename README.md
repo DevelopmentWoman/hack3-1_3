@@ -1,1 +1,2 @@
-# hack3-1_3
+# hack 1_3
+Ejercicio aplicando propiedad Flex.
